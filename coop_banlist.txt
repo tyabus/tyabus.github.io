@@ -1,0 +1,14 @@
+//=======================================================================
+//		Copyright Flying With Gauss Team 2019 ©
+//		    banned.cfg - archive of id blacklist
+//=======================================================================
+banid 0 65354d4d7b5b39f265d19b892fcce7d4
+banid 0 caa781e97bd51e60e3c57e6d25b543d3
+banid 0 9dc04adbbafb96990e61e49fcc9c915b
+banid 0 ba8efd5b634e7919872c5c11878700b1
+banid 0 785858d6971d6149c6c421642fc8dde9
+banid 0 dd2c64a4d5348773027c1bfd0279ceba
+banid 0 30e8276a6fab3e2531625711abfd4a80
+banid 0 46365df48b218156ec4f6a8311d57eb6
+banid 0 ca8339fca64a6574cbeaa651dbcda3aa
+banid 0 563602d1a644551b679fe51bdd44772e

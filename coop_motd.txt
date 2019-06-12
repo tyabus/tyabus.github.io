@@ -1,0 +1,20 @@
+Tyabus Coop
+Admin: ^4tyabus^7
+
+Communication stuff:
+VK conservation link: https://vk.me/join/AJQ1d2lTaQ2xIN9yNcwPNOa8
+GGM Discord Server: discord.gg/6ySSg4R
+FWGS Discord Server: discord.me/fwgs
+All in one: http://mittorn.tk/ggm-coop/
+
+Rules:
+1. Don't spam in chat
+2. Don't abuse save/load
+3. Respect other players, admins
+4. SPEAK ONLY ENGLISH/RUSSIAN, no other languages are allowed
+5. Don't join coop if don't know where to go 
+7. Forbidden to impersonate the administration
+8. Ignorance of the rules is no excuse
+9. Enjoy your stay
+
+Source Code: https://github.com/tyabus/hlsdk-xash3d
